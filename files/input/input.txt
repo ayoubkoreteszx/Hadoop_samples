@@ -1,0 +1,5 @@
+This chapter illustrates how the patterns in this book can be used to solve a variety of integration
+problems. In order to do so, we examine common integration scenarios and present a
+comprehensive integration example. As we design the solution to this example, we will express
+the solution using the patterns contained in this book. At the end of this chapter you will be
+familiar with about two dozen integration patterns.
